@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PVSAPI", "PVSAPI.csproj", "{9E93DD91-5801-4903-BC96-E7423029CC12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E93DD91-5801-4903-BC96-E7423029CC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E93DD91-5801-4903-BC96-E7423029CC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E93DD91-5801-4903-BC96-E7423029CC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E93DD91-5801-4903-BC96-E7423029CC12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F59F585-AF7F-49E3-B0ED-F8184E1E2B14}
+	EndGlobalSection
+EndGlobal
